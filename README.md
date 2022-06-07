@@ -6,7 +6,8 @@ To install needed requirements execute the command :
 ``` 
 pip install -r requirements.txt 
 ```
-     
+
+> :warning: **You need to have Python installed first**
 ## Unit Test
 Commands : 
 
