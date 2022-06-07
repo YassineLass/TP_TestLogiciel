@@ -1,5 +1,5 @@
 # TP_TestLogiciel
-this is a simple flask application with Javascript. I implemented 3 types of testin : unit Test, integreation Test and e2e Testing
+This is a simple flask application with Javascript. I implemented 3 types of testing : unit Tests, integreation Tests and e2e Tests
 ![Screeshot](app.png)
 ## Python Requirements 
 To install needed requirements execute the command :  
